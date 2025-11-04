@@ -57,14 +57,15 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 <br>
 
 
+
 ## 📫 You can find me @
 
 <div>
 
-📧 **Email:**  [rohulamin5462@gmail.com](rohulamin5462@gmail.com)  
-💼 **LinkedIn:** ([https://www.linkedin.com/in/ss-aa-98916737b/] 
-📘 **Facebook:** ([https://www.facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/))  
-🌍 **Portfolio:** ([https://my-portfolio-nine-flax-71.vercel.app/](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true))
-
+📧 **Email:** rohulamin5462@gmail.com
+📱 **WhatsApp:** [wa.me/rohulamin5462](https://wa.me/rohulamin5462)
+📘 **Facebook:** [facebook.com/ruhul.amin.255969](https://www.facebook.com/share/1BWYQBtxZT/)  
+🌍 **Portfolio:** [portfolio-three-gamma-78.vercel.app](https://portfolio-three-gamma-78.vercel.app)
+``` ✅
 
 </div>
