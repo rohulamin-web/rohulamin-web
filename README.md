@@ -16,8 +16,8 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 <hr>
 
 ## ⚡ Technologies
-<div align ="text-10">
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -27,7 +27,6 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
-</div>
 <hr>
 
 - 🌱 I’m currently learning Javascript 
