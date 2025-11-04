@@ -41,5 +41,17 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohulamin-web&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)
+
+
+## 📫 You can find me @
+
+<div>
+
+📧 **Email:** [rohulamin5462@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b]([https://www.linkedin.com/in/ss-aa-98916737b/](https://www.linkedin.com/uas/login?fromSignIn=true&session_redirect=%2Fflagship-web%2Ffeed%2F))  
+📘 **Facebook:** [[facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/))  
+🌍 **Portfolio:** https://portfolio-three-gamma-78.vercel.app/?fbclid=IwY2xjawN3DupleHRuA2FlbQIxMABicmlkETFjU3VGb0tyR0tobzZLSlYxAR6GnIv3kIoXDpQY3gIy78P-BOU2fhews1OOAjFO5WbaKrzJwW-uaRJ-0DvJng_aem_-0LTNJeaFX6RytPzTSP1UQ
+
+</div>
 
