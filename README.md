@@ -17,7 +17,7 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 ## ⚡ Technologies
 
-##![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -37,6 +37,10 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohulamin-web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/uas/login?fromSignIn=true&session_redirect=%2Fflagship-web%2Ffeed%2F/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCkAygZXE-eMz_blnObdtYAA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://l.facebook.com/l.php?u=https%3A%2F%2Fportfolio-three-gamma-78.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExY1N1Rm9LckdLaG82S0pWMQEeNwZDpdAm8Giu_Ul8HEzVH83SggsA6W5v7pyS4-ZShiJHoaNFnbL6Kp0tJVs_aem_-2x_8cWQNXJVmI7QC-3fhQ&h=AT23zOKDHPyESAWF5l8jumL5zd_cjwR8h7NJwIZosu52VvjwG34rWyWgKa_kY_mGfpQxMLLVFCAb2QumknhvSOGNOZ5BDNJKcQjOsxBHjth4yVt0130GUlbqqDrHCxqEd8QuwQ)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohulamin-web)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siamsheikh-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohulamin-web)](https://github.com/anuraghazra/github-readme-stats)
 
