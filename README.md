@@ -1,7 +1,7 @@
 ## Hi, I'm Rohul Amin 👋
-<hr>
+
 ![Web Developer](https://i.postimg.cc/Yqz86V1R/rohull-1.png)
-<hr>
+
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
