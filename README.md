@@ -16,7 +16,8 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 <hr>
 
 ## ⚡ Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+<div align ="text-10">
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -26,6 +27,7 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
+</div>
 <hr>
 
 - 🌱 I’m currently learning Javascript 
@@ -43,15 +45,20 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)
 
+####  Github Link
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=siamsheikh-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47](https://github.com/rohulamin-web)" /> </p>
+
+<br>
+---
+<br>
 
 ## 📫 You can find me @
 
 <div>
 
 📧 **Email:** [rohulamin5462@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b]([https://www.linkedin.com/in/ss-aa-98916737b/](https://www.linkedin.com/uas/login?fromSignIn=true&session_redirect=%2Fflagship-web%2Ffeed%2F))  
+💼 **LinkedIn:** https://www.linkedin.com/uas/login?fromSignIn=true&session_redirect=%2Fflagship-web%2Ffeed%2F
 📘 **Facebook:** [[facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/))  
-🌍 **Portfolio:** https://portfolio-three-gamma-78.vercel.app/?fbclid=IwY2xjawN3DupleHRuA2FlbQIxMABicmlkETFjU3VGb0tyR0tobzZLSlYxAR6GnIv3kIoXDpQY3gIy78P-BOU2fhews1OOAjFO5WbaKrzJwW-uaRJ-0DvJng_aem_-0LTNJeaFX6RytPzTSP1UQ
-
+🌍 **Portfolio:** ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)
 </div>
 
