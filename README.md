@@ -38,7 +38,7 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohulamin-web)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siamsheikh-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=rohulamin-web)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
