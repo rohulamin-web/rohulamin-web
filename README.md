@@ -1,8 +1,12 @@
+## Hi, I'm Rohul Amin 👋
+
 ![Web Developer](https://i.postimg.cc/Yqz86V1R/rohull-1.png)
 
-## Hi, I'm Rohul Amin 👋
-#### Web Developer
+####👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
+##🚀 About Me
 
 I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, JavaScript, Bootstrap, React, Redux, Node.js, and MongoDB. I enjoy creating dynamic, responsive, and user-friendly web applications that bring ideas to life. I focus on writing clean, efficient, and maintainable code while constantly learning new technologies to improve my development skills. My goal is to become a professional Full-Stack Developer and contribute to meaningful and innovative projects, In shaa Allah
 
