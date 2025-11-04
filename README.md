@@ -17,7 +17,7 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+##![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -44,20 +44,19 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)
 
+
 ####  Github Link
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=siamsheikh-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47](https://github.com/rohulamin-web)" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siamsheikh-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47" /> </p>
 
 <br>
 ---
 <br>
 
-## 📫 You can find me @
-
 <div>
 
-📧 **Email:** [rohulamin5462@gmail.com)  
-💼 **LinkedIn:** https://www.linkedin.com/uas/login?fromSignIn=true&session_redirect=%2Fflagship-web%2Ffeed%2F
-📘 **Facebook:** [[facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/))  
-🌍 **Portfolio:** ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)
-</div>
+📧 **Email:** [rohulamin5462@gmail.com](rohulamin5462@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ss-aa-98916737b]([https://www.linkedin.com/in/ss-aa-98916737b/](https://www.linkedin.com/checkpoint/challenge/AgEHeqVJbcsZLAAAAZpPeg_IBxhdzeLDrBbidUb2WbhSdE6FsbW4W4f6it8jU2Fbk4RbD_qB50lcZaEWyyJ8keISKG4vFg?ut=31-pzhFTMuaY01))  
+📘 **Facebook:** [facebook.com/share/1BWYQBtxZT/]([https://www.facebook.com/share/1BWYQBtxZT/](https://www.facebook.com/))  
+🌍 **Portfolio:** [my-portfolio-nine-flax-71.vercel.app]([https://my-portfolio-nine-flax-71.vercel.app/](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true))
 
+</div>
