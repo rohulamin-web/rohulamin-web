@@ -11,13 +11,11 @@
 
 ## 🚀 About Me
 I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, JavaScript, Bootstrap, React, Redux, Node.js, and MongoDB. I enjoy creating dynamic, responsive, and user-friendly web applications that bring ideas to life. I focus on writing clean, efficient, and maintainable code while constantly learning new technologies to improve my development skills. My goal is to become a professional Full-Stack Developer and contribute to meaningful and innovative projects, In shaa Allah
-<hr>
-Skills:  REACT / JS / HTML / CSS/REDUX
+
 
 <hr>
 
 ## ⚡ Technologies
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,7 +24,7 @@ Skills:  REACT / JS / HTML / CSS/REDUX
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 
 <hr>
 
