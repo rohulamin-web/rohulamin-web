@@ -41,13 +41,20 @@ I’m a Front End Web developer passionate Web Developer skilled in HTML, CSS, J
 
 
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohulamin-web)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Insights
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohulamin-web&show_icons=true&count_private=true)  
+<div align="center">
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rohulamin-web/contributions?format=svg&private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=rohulamin-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF&icon_color=9A6DFF" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohulamin-webr&theme=radical&hide_border=true&background=0D1117&ring=9A6DFF&fire=9A6DFF" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohulamin-web&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A6DFF" width="48%">
 
+</div>
+<br>
+
+---
 
 ####  Github Link
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohulamin-web&label=Profile%20views&color=0e75b6&style=flat" alt="yasin-sorkar47" /> </p>
