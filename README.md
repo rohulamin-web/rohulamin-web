@@ -1,6 +1,6 @@
 ## Hi, I'm Rohul Amin 👋
 
-![Web Developer](https://i.postimg.cc/Yqz86V1R/rohull-1.png)
+![Web Developer](https://i.postimg.cc/3J1dyT7K/Banner.png)
 
 <p>
 👑 I am Web Developer <br> 
